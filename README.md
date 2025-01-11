@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-Perkenalkan nama saya **Gilang Ramadhan**.<br>
+Perkenalkan nama saya **Rill_tsff**.<br>
 
 Saya seorang **Curriculum Developer** di [Dicoding](https://www.dicoding.com/).<br>
 
