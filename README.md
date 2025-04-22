@@ -20,7 +20,7 @@ Perkenalkan nama saya **Rill**.<br>
 
 Saya seorang **Curriculum Developer** dari [STEKMAN](https://stekman.com).<br>
 
-Saya bertanggung jawab pada kualitas materi iOS dengan dibekali [sertifikasi dari University of Toronto](https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M).<br>
+Saya bertanggung jawab pada kualitas materi iOS dengan dibekali [sertifikasi dari University of Stekman](https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M).<br>
 
 Saya juga memiliki gelar Google Associate Android Developer sejak 2024.<br>
 
