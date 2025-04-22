@@ -24,9 +24,9 @@ Saya bertanggung jawab pada kualitas materi iOS dengan dibekali [sertifikasi dar
 
 Saya juga memiliki gelar Google Associate Android Developer sejak 2024.<br>
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun Instagram [Rill_syz](Rill_syz) ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun Instagram [Rill_syz](Rill_syz) ya. <br>
 
-Tiga Algoritma Dasar
--Runtunan
--Pengulangan
--Percabangan
+Tiga Algoritma Dasar <br>
+-Runtunan <br>
+-Pengulangan <br>
+-Percabangan <br>
